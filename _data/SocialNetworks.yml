@@ -27,7 +27,7 @@ reddit:
   icon: "fa-reddit"
 
 google-scholar:
-  name: "fas fa-graduation-cap"
+  name: "far fa-graduation-cap"
   baseURL: ""
   icon: "graduation-cap"
 
