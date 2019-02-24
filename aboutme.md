@@ -1,13 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Ph.D. Candidate
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am Suyi Li. My personal website is in construction now:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- To be updated
 
 What else do you need?
 
