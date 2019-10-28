@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Ph.D. Candidate
+subtitle: Ph.D. Student at HKUST
 ---
 
-I am Suyi Li. My personal website is in construction now:
+I am LI, Suyi. My personal website is in construction now:
 
 - To be updated
 
