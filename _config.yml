@@ -19,6 +19,8 @@ title: Smarter
 # Short description of your site
 description: Personal Website of LI, Suyi
 
+paginate_path: "/blog/page:num/"
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
