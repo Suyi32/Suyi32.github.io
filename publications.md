@@ -7,7 +7,7 @@ subtitle: <!--- Research Interest &#58; Federated Learning; Natural Language Pro
 ## 2019
 **Abnormal Client Behavior Detection in Federated Learning**  
 * Suyi Li, Yong Cheng, Yang Liu, Wei Wang, Tianjian Chen  
-* Workshop on Federated Learning, in Conjunction with NeurIPS 2019 (FL-NeurIPS 19)  
+* Workshop on Federated Learning, NeurIPS 2019 (FL-NeurIPS 19)  
 \[ [paper](https://arxiv.org/abs/1910.09933) \]
 
 **CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases**  
