@@ -14,5 +14,5 @@ bidirectional LSTM network, then decoded to directly predict SQL query tokens
 replacing them with their types
 
 #### SEQ2SQL
-* Encoder-decoder model: The encoder encodes input using two-layer bidirectional LSTM, the decoder network uses a two layer, unidirectional LSTM.
-
+* Encoder-decoder model with Pointer Network: The encoder encodes input using two-layer bidirectional LSTM, the decoder network uses a two layer, unidirectional LSTM.
+* Apply reinforcement learning to deal with the sequence problem in WHERE clause. For example, for the question "which males are older than 18", the queries " SELECT name FROM insurance WHERE age > 18 AND gender = "male" " and " SELECT name FROM insurance WHERE gender = "male" AND age > 18 " both obtain the correct execution result despite not having exact string match.
