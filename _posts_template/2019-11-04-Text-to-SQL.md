@@ -13,6 +13,6 @@ bidirectional LSTM network, then decoded to directly predict SQL query tokens
 * Entity Anonymization is used to process the utterance: handle entities in the utterances and SQL by 
 replacing them with their types
 
-#### SEQ2SQL
+#### SEQ2SQL [Paper](https://arxiv.org/abs/1709.00103)
 * Encoder-decoder model with Pointer Network: The encoder encodes input using two-layer bidirectional LSTM, the decoder network uses a two layer, unidirectional LSTM.
 * Apply reinforcement learning to deal with the sequence problem in WHERE clause. For example, for the question "which males are older than 18", the queries " SELECT name FROM insurance WHERE age > 18 AND gender = "male" " and " SELECT name FROM insurance WHERE gender = "male" AND age > 18 " both obtain the correct execution result despite not having exact string match.
