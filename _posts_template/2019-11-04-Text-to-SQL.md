@@ -14,4 +14,5 @@ bidirectional LSTM network, then decoded to directly predict SQL query tokens
 replacing them with their types
 
 #### SEQ2SQL
-* 
+* Encoder-decoder model: The encoder encodes input using two-layer bidirectional LSTM, the decoder network uses a two layer, unidirectional LSTM.
+
