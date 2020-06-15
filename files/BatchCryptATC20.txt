@@ -1,0 +1,7 @@
+@inproceedings{zhangbatchcrypt,
+  title={BatchCrypt: Efficient Homomorphic Encryption for Cross-Silo Federated Learning},
+  author={Zhang, Chengliang and Li, Suyi and Junzhe, Xia and and Wang, Wei and Yan, Feng and Yang, Liu},
+  booktitle={the 2020 USENIX Annual Technical Conference (ATC)},
+  year={2020},
+  organization={USENIX}
+}
