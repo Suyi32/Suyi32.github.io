@@ -3,8 +3,12 @@ layout: page
 title: Publications
 subtitle: <!--- Research Interest &#58; Federated Learning; Natural Language Processing -->
 ---
+**BatchCrypt: Efficient Homomorphic Encryption for Cross-Silo Federated Learning**  
+* Chengliang Zhang, Suyi Li, Junzhe Xia, Wei Wang, Feng Yan, Yang Liu   
+* 2020 USENIX Annual Technical Conference (ATC'20).
+\[ [paper](https://marcoszh.github.io/batchcrypt_atc20.pdf) | [code](https://github.com/marcoszh/BatchCrypt) \]
 
-## 2019
+
 **Abnormal Client Behavior Detection in Federated Learning**  
 * Suyi Li, Yong Cheng, Yang Liu, Wei Wang, Tianjian Chen  
 * Workshop on Federated Learning, NeurIPS 2019 ([FL-NeurIPS 19](http://federated-learning.org/fl-neurips-2019/))  
