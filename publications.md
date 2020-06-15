@@ -6,7 +6,7 @@ subtitle: <!--- Research Interest &#58; Federated Learning; Natural Language Pro
 **BatchCrypt: Efficient Homomorphic Encryption for Cross-Silo Federated Learning**  
 * Chengliang Zhang, Suyi Li, Junzhe Xia, Wei Wang, Feng Yan, Yang Liu   
 * 2020 USENIX Annual Technical Conference (ATC'20).
-\[ [paper](https://marcoszh.github.io/batchcrypt_atc20.pdf) | [bibtex](https://Suyi32.github.io/files/BatchCrtpyATC20.txt) | [code](https://github.com/marcoszh/BatchCrypt) \]
+\[ [paper](https://marcoszh.github.io/batchcrypt_atc20.pdf) | [code](https://github.com/marcoszh/BatchCrypt) \]
 
 
 **Abnormal Client Behavior Detection in Federated Learning**  
